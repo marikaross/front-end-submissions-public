@@ -72,9 +72,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Node Server Tutorial](https://gist.github.com/jeremiahjstanley/e582019634adaa5ccc1d33da6115ee9c)
 * [Express Tutorial](https://github.com/jeremiahjstanley/express-tutorial) - 1, 2, 4
 * [Promise Practice Exercises](https://gist.github.com/jeremiahjstanley/f884250bf631e604876c5c972ee12d1d)
-* [House of Vars Blog Post](https://gist.github.com/jeremiahjstanley/054a1d0a49f55b9aff935210408c3311)
-* [Pattern Party Repo](https://github.com/jeremiahjstanley/pattrn-party)
-* [Pattern Party GitHub Pages](https://jeremiahjstanley.github.io/pattrn-party/)
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
 
 ### Marika Ross
 
@@ -82,9 +82,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Express Tutorial](https://github.com/marikaross/express-practice) - What additional items did you work on?
 * Items 1, 2, 3
 * [Promise Practice Exercises](https://repl.it/@marikaross/Promise-Practice)
-* [House of Vars Blog Post]()
-* [Pattern Party Repo]()
-* [Pattern Party GitHub Pages]()
+* [House of Vars Blog Post](https://medium.com/@marika.ross/the-devil-is-in-the-details-de8a0b796824)
+* [Pattern Party Repo](https://github.com/marikaross/Pattrn-Party)
+* [Pattern Party GitHub Pages](https://marikaross.github.io/Pattrn-Party/)
 
 ### Quin Hill
 
@@ -120,15 +120,15 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Node Server Tutorial](https://github.com/tmcjunkinmarquis/Node-Server-Tutorial)
 * [Express Tutorial](https://github.com/tmcjunkinmarquis/Express-Tutorial) - What additional items did you work on? 1,2,3,4
 * [Promise Practice Exercises](https://github.com/tmcjunkinmarquis/prework)
-* [House of Vars Blog Post](https://medium.com/p/bf0c7692908d/edit)
-* [Pattern Party Repo](https://github.com/tmcjunkinmarquis/pattrn-party)
-* [Pattern Party GitHub Pages](https://tmcjunkinmarquis.github.io/pattrn-party/)
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
 
 ### Tory Dannenberg
 
 * [Node Server Tutorial](https://github.com/tdberg21/messages)
 * [Express Tutorial](https://github.com/tdberg21/be-practice) - What additional items did you work on? 1, 3, 4
 * [Promise Practice Exercises](https://repl.it/@tdberg21/Promisespractice)
-* [House of Vars Blog Post](https://medium.com/@tdberg21/my-first-open-source-contribution-1db38b68bd81)
-* [Pattern Party Repo](https://github.com/tdberg21/pattrn-party)
-* [Pattern Party GitHub Pages](https://tdberg21.github.io/pattrn-party/)
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
